@@ -4,5 +4,5 @@ firmware='.pio/build/uno/firmware.hex'
 elf='.pio/build/uno/firmware.elf'
 
 [[chip]]
-name = 'chip-magnet-sensor'  # To use the chip in diagram.json, add a part with "chip-inverter" type.
+name = 'chip-magnet-sensor'  # To use the chip in diagram.json, add a part with "chip-chip-magnet-sensor" type.
 binary = 'chips/magnet-sensor-chip.wasm'
