@@ -1,0 +1,22 @@
+{
+  "name": "Magnet sensor",
+  "author": "Richard Holleman",
+  "pins": [
+    "GND",
+    "VCC",
+    "",
+    "",
+    "OUT",
+    ""
+  ],
+  "controls": [
+    {
+      "id": "voltage",
+      "label": "Analog voltage",
+      "type": "range",
+      "min": 0.8,
+      "max": 4.2,
+      "step": 0.1
+    }
+  ]
+}
