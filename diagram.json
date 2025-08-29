@@ -71,7 +71,7 @@
       "attrs": { "color": "blue" }
     },
     {
-      "type": "chip-chip-magnet-sensor",
+      "type": "chip-magnet-sensor",
       "id": "chip1",
       "top": 404.22,
       "left": 427.2,
