@@ -253,7 +253,7 @@ public:
     char tempCharBuffer[20];
     text.toCharArray(tempCharBuffer, 20);
     u8g2.clearBuffer();
-    u8g2.setFont(u8g2_font_helvR14_tr);
+    u8g2.setFont(u8g2_font_helvR10_tr);
     u8g2.setFontPosBaseline();
     u8g2.drawStr(0, 20, tempCharBuffer);
     u8g2.sendBuffer();
